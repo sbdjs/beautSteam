@@ -1,5 +1,5 @@
 # Bienvenue sur la page git du bot Discord BeautSteam
-## Ce bot Discord à pour but de vous ajouter des commandes uniques concernant vos profiles steam!
+## Ce bot Discord a pour but de vous ajouter des commandes uniques concernant vos profiles steam!
 
 Pour utiliser notre bot merci de suivre scrupuleusement ces étapes:
 - Installer nodeJS 16
