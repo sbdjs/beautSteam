@@ -69,7 +69,7 @@ ALTER TABLE `logs`
 COMMIT;
 ```
 
-## Et voilà vous y êtes, pour lancer le bot faites la simple commande ``node index.js``
+## Et voilà vous y êtes, pour lancer le bot faites la simple commande ``npm run start`` ou bien ``node index.js``
 
 Voici la liste des commandes disponibles:
 | Commande | arguments |
